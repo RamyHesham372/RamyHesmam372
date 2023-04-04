@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramy Hesham
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning ...OOP/Flutter
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning ...Data Structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.... ramyhesham372@gmail.com
 - my linkedin www.linkedin.com/in/ramy-hesham-059a87177
