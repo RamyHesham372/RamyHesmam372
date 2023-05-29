@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Data Structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.... ramyhesham372@gmail.com
-- my linkedin www.linkedin.com/in/ramy-hesham-059a87177
+- my linkedin https://www.linkedin.com/in/ramy-hesham/
 
 <!---
 RamyHesmam372/RamyHesmam372 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
